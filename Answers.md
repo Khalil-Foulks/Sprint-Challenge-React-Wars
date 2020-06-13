@@ -2,6 +2,8 @@
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+
+
 1. Describe component state.
 
 1. Describe props.
