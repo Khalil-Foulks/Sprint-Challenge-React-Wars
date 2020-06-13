@@ -7,7 +7,7 @@ const Container = styled.div`
     padding:40px;
     background-color:black;
     color:white;
-    opacity:80%
+    opacity:80%;
 `
 
 export default Container
